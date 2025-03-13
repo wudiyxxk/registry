@@ -92,6 +92,10 @@ schoolexclusionstories	86400	IN	NS	dolly.ns.cloudflare.com.
 schoolphobia	86400	IN	NS	achiel.ns.cloudflare.com.
 schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
-ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
+
+; wudiyxxk
+; Submitted by Wudiyxxk <yxxk666@gmail.com>
+wudiyxxk	86400	IN	NS	carrera.ns.cloudflare.com.
+wudiyxxk	86400	IN	NS	tanner.ns.cloudflare.com.
 
 ; ========== END ORGANIZATIONS ================
